@@ -38,7 +38,7 @@ function cambiofondo(){
 	}
 	if(m=11){
 		document.body.style.backgroundImage = "url('../images/winter.jpg')" ;
-	}
+	}**/
 	
 	
 }
